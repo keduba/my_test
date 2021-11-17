@@ -30,18 +30,18 @@ address:
   country: 
   country_code: 
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: 
+  longitude: 
 directions: 
 office_hours:
   - 
   - 
 appointment_url: 
 contact_links:
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: LinkedIn
+    link: 'https://linkedin.com/in/kenechukwu-uba'
   - icon: skype
     icon_pack: fab
     name: Skype Me
@@ -50,10 +50,7 @@ contact_links:
     icon_pack: fab
     name: Chat on Keybase
     link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+   
 
 # Site header
 
@@ -157,4 +154,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true
