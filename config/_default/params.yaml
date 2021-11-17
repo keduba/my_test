@@ -91,9 +91,9 @@ show_related:
   book: true
   page: false
   post: true
-  project: true
-  publication: true
-  event: true
+  project: false
+  publication: false
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
