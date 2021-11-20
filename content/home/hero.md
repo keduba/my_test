@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Hugo Academic Theme
-hero_media: hero-academic.png
+title: Kenechukwu Uba
+hero_media: 
 cta:
   label: '**Get Started**'
   url: https://wowchemy.com/hugo-themes/
@@ -22,6 +22,6 @@ advanced:
   css_class: fullscreen
 ---
 
-**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
+**The test websites for me to express my interest and follow up with what I have wanted to do from a long time.**
 
-**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
+**Learning and writing about a number of topics, not too many** - from machine learning, neuroscience, and mental growth.
