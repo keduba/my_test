@@ -9,6 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
+# Should it show?
+active: false
+
 title: Featured Publications
 subtitle: ""
 
