@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Hugo Academic Theme Demo
-subtitle:
+title: Kedman's Levels
+subtitle: keep learning and doing
 
 design:
   columns: "1"
