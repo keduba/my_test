@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include machine learning, neuroscience, deep learning and the environment.
 education:
   courses:
   - course: MSc in Marine Environment and Resources (MER+)
