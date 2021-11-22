@@ -32,4 +32,4 @@ superuser: true
 title: Kenechukwu Uba
 ---
 
-I am a graduate student of Marine Environment and Resources. Working on the reconstruction of satellite imagery using computational algorithms relaunched a salient interest in machine learning, deep learning and neural networks. This website is meant to help document the journey to becoming more knowledgeable and hopefully someday an expert in the field. Certain personal experiences also made me interested in neuroscience and how the mind works. I intend to write about that too and share some of the things I am learning on the subject on this website.
+I am a graduate student of Marine Environment and Resources. Working on the reconstruction of satellite imagery using computational algorithms relaunched a salient interest in machine learning, deep learning and neural networks. This website is meant to help document the journey to becoming more knowledgeable and hopefully someday an expert in the field. Certain personal experiences also made me interested in neuroscience and how the mind works. I intend to write about that too and share some of the things I am learning on the subject on this website. 
