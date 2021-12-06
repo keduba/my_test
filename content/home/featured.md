@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 # Should it show?
-active: false
+active: true
 
 title: Featured Publications
 subtitle: ""
