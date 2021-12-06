@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: classic
-font_size: L
+font_size: M
 
 # SEO
 
@@ -44,12 +44,12 @@ contact_links:
     link: 'https://linkedin.com/in/kenechukwu-uba'
   - icon: skype
     icon_pack: fab
-    name: Skype Me
-    link: 'live:jfk.uba'
+    name: 
+    link: 
   - icon: keybase
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
+    name: 
+    link: 
    
 
 # Site header
