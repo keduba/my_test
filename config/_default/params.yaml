@@ -58,7 +58,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -78,7 +78,7 @@ highlight_languages:
   - latex
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
@@ -89,11 +89,11 @@ edit_page:
     book: false
 show_related:
   book: true
-  page: false
+  page: true
   post: true
-  project: false
-  publication: false
-  event: false
+  project: true
+  publication: true
+  event: true
 reading_time: true
 section_pager: false
 docs_section_pager: true
@@ -138,7 +138,7 @@ search:
     app_id: ''
     api_key: ''
     index_name: ''
-    show_logo: false
+    show_logo: true
 map:
   provider: mapnik
   api_key: ''
