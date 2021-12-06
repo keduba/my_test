@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: classic
-font_size: M
+font_size: L
 
 # SEO
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: jfk.uba@pm.me
+email: jfk dot uba at pm dot me
 phone: 
 address:
   street: 
@@ -42,11 +42,11 @@ contact_links:
     icon_pack: fab
     name: LinkedIn
     link: 'https://linkedin.com/in/kenechukwu-uba'
-  #- icon: skype
+  - icon: 
     icon_pack: fab
     name: 
     link: 
-  #- icon: keybase
+  - icon: 
     icon_pack: fab
     name: 
     link: 
