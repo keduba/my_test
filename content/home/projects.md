@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Should this widget show?
-active: false
+active: true
 # Order that this section appears on the page.
 weight: 65
 
