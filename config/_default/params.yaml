@@ -150,7 +150,8 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
-  branch: master
+  branch: main
+  publish_mode: editorial_workflow
   local_backend: false
 icon:
   pack:
