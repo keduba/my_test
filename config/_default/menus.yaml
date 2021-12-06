@@ -6,6 +6,7 @@
 main:
   - name: Demo
     url: '#demo'
+    weight: 5
   - name: Bio
     url: '#about'
     weight: 10
