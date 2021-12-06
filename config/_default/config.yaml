@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Kedman # Website name
 baseurl: 'https://nostalgic-test-site.netlify.app/' # Website URL
-copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Kedman' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
