@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-When I first graduated from university in Nigeria and did the mandatory National Youth Service, I was 23. I thought I was old. Two years earlier, a school friend had dropped out from the university in his fourth year to go to Canada and start all over from first year. I thought to myself, “What, I could never do that!” This was happening in 2009. In 2021, 12 years later and by Nigerian standards, that is time to either go through undergraduate medical school twice, have three regular undergraduate degrees, or do a combination of an undergraduate degree, a masters and a PhD all assuming that the person started in 2009.
+When I first graduated from university in Nigeria and did the mandatory National Youth Service, I was 23. I thought I was old. Two years earlier, a school friend had dropped out from the university in his fourth year to go to Canada and start all over from first year. I thought to myself, “What, I could never do that!” This was happening in 2009. In 2021, 12 years later and by Nigerian standards, that is enough time to have either gone through undergraduate medical school twice, had three regular undergraduate degrees, or done a combination of an undergraduate, Master's and a doctoral degree all assuming that the person started in 2009.
 
 At that time I felt that I was already old and thought that I could not possibly start from first year of university. However in the past two years, I have met people who started even more recently, like say 2014 and are almost at the end of their PhD. It then means I could have started a new undergraduate degree in a field that I really wanted such as Software Engineering and by now, I’d probably have a PhD in that or a related area.
 
