@@ -1,5 +1,6 @@
 ---
-bio: My research interests include machine learning, neuroscience, deep learning and the environment.
+bio: My research interests include deep learning, neural networks, neuroscience and physical oceanography.
+
 # education:
 #  courses:
 #  - course: MSc in Marine Environment and Resources (MER+)
@@ -12,6 +13,7 @@ bio: My research interests include machine learning, neuroscience, deep learning
 email: ""
 
 highlight_name: true
+
 interests:
 - Deep Learning
 - Neural Networks
