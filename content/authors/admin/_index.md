@@ -13,7 +13,8 @@ bio: My research interests include deep learning, neural networks, neuroscience 
 email: ""
 
 highlight_name: true
-
+status:
+icon :
 interests:
 - Deep Learning
 - Neural Networks
@@ -22,6 +23,10 @@ interests:
 
 role: student of machine learning
 
+# Status emoji
+status: 
+  icon: ☕️
+  
 social:
 - icon: envelope
   icon_pack: fas
