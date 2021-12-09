@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
+  - name: Publicity
     url: '#about'
-    weight: 40
+    weight: 60
   - name: Posts
     url: '#posts'
     weight: 20
