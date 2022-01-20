@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Kedman # Website name
 baseurl: 'https://kedman.eurodegreesng.com/' # Website URL
-copyright: '© {year} Kedman' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021-{year} Kedman' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
