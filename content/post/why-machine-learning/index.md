@@ -1,7 +1,7 @@
 ---
 title: Why Machine Learning?
 subtitle: applying artificial intelligence techniques to solving problems
-date: 2022-01-24T08:14:38.137Z
+date: 2022-01-24T09:30:38.137Z
 summary: Many areas of human activities and endeavours that have acquired a lot
   of data or even information can be influenced by advances in artificial
   intelligence using Machine Learning. By choosing one of such areas, anyone
@@ -15,7 +15,7 @@ tags:
   - JAMB
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
   caption: "ImageCred: AnalyticsInsight.net"
 ---
