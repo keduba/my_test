@@ -8,15 +8,16 @@ summary: Many areas of human activities and endeavours that have acquired a lot
   with a healthy interest to learn can find a way to contribute as a Machine
   Learning expert.
 draft: false
-featured: false
+featured: true
 tags:
   - MachineLearning
   - DeepLearning
   - JAMB
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: "ImageCred: AnalyticsInsight.net"
 ---
 How did we get here?
 
