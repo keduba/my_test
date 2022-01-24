@@ -42,12 +42,10 @@ So allons-y! Let's take some time and look around for fields of study where we a
 
 When you've found one area, come back here. There'll be another post waiting for you.
 
-
-
 *Abbreviations I used.*
 
 * EE: Electrical Engineering
-* JAMB: Joint Admissions and Matriculations Board (Nigeria's educations office that sets exams for entry into the Universities.
+* JAMB: Joint Admissions and Matriculations Board (Nigeria's Educations Directorate that sets and administers entry examinations into the Universities.
 * ML: Machine Learning
 * DL: Deep Learning
 * NN: Neural Networks
