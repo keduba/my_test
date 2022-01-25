@@ -3,8 +3,11 @@ title: Update
 subtitle: "Summarising the progress I am making in Python programming and
   Machine Learning. "
 date: 2022-01-25T08:15:44.584Z
+summary: "*This is a post to keep up with the state of my learning. I'm using it
+  to keep track of how I have been learning and studying with my goal of
+  becoming an expert in machine learning by the end of February.*"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
