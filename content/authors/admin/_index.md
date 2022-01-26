@@ -43,5 +43,6 @@ social:
 superuser: true
 
 title: Kedman
+---
 
 Graduate of MSc in Marine Environment and Resources. Interested in machine learning and its applications, neuroscience and mind-brain interactions, and the oceans.
