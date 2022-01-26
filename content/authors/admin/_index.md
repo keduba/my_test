@@ -21,7 +21,7 @@ interests:
 - Neuroscience
 - Physical oceanography
 
-role: student of machine learning
+role: machine learning | mind 
 
 # Status emoji
 status: 
@@ -42,7 +42,6 @@ social:
 
 superuser: true
 
-title: Kenechukwu Uba
----
+title: Kedman
 
-Kene is a graduate of the Erasmus+ Master's in Marine Environment and Resources. Working on the reconstruction of satellite imagery using computational algorithms for his master thesis relaunched a salient interest in machine learning, deep learning and neural networks. The interest in neuroscience and how the mind and brain interact comes from personal experiences.
+Graduate of MSc in Marine Environment and Resources. Interested in machine learning and its applications, neuroscience and mind-brain interactions, and the oceans.
