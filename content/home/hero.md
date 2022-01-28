@@ -8,7 +8,7 @@ weight: 10
 title: Welcome to Kedman's Pages
 subtitle: Writing because I should. Interests = [Mind, Programming in Python] ;
   Goal >= Machine Learning
-active: true
+active: false
 design:
   background:
     gradient_end: "#1976d2"
