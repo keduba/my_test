@@ -6,8 +6,8 @@ widget_id: hero widget
 headless: true
 weight: 10
 title: Welcome to Kedman's Pages
-subtitle: writing to track my progress as I learn programming in Python and
-  machine learning as well as interests in the mind and neuroscience.
+subtitle: Writing because I should. Interests = [Mind, Programming in Python] ;
+  Goal >= Machine Learning
 design:
   background:
     gradient_end: "#1976d2"
