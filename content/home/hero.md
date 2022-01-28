@@ -1,27 +1,20 @@
 ---
-widget: hero
-headless: true
-weight: 10
-title: Kenechukwu Uba
-hero_media: 
-# cta:
-#  label: '**Get Started**'
-#  url: https://wowchemy.com/hugo-themes/
-# cta_alt:
-#  label: Ask a question
-#  url: https://discord.gg/z8wNYzb
-# cta_note:
-#  label: >-
-#    <a class="js-github-release" href="https://github.com/wowchemy/wowchemy-hugo-themes/releases" data-repo="wowchemy/wowchemy-hugo-themes">Latest release<!-- V  --></a><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy site builder for Hugo</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
-design:
-  background:
-    gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
-    text_color_light: true
 advanced:
   css_class: fullscreen
+widget: hero
+widget_id: hero widget
+headless: true
+weight: 10
+title: Welcome to Kedman's Pages
+subtitle: Writing because I should. Interests = [Mind, Programming in Python] ;
+  Goal >= Machine Learning
+active: true
+design:
+  background:
+    gradient_end: "#1976d2"
+    gradient_start: "#004ba0"
+    text_color_light: true
+    image: bougoureau1.jpg
+    image_darken: 1
+hero_media: null
 ---
-
-**The test websites for me to express my interest and follow up with what I have wanted to do from a long time.**
-
-**Learning and writing about a number of topics, not too many** - from machine learning, neuroscience, and mental growth.
