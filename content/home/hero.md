@@ -18,3 +18,8 @@ design:
     image_darken: 1
 hero_media: null
 ---
+Writing because I should. 
+
+Interests = \[Mind, Programming in Python] 
+
+Goal >= Machine Learning
