@@ -10,8 +10,8 @@ design:
   background:
     gradient_end: "#1976d2"
     gradient_start: "#004ba0"
-    text_color_light: true
-    image: petites_mendiantesbougoureau.jpg
+    text_color_light: false
+    image: bougoureau1.jpg
 hero_media: null
 ---
 **Welcome to Kedman's Pages.**
