@@ -5,7 +5,9 @@ widget: hero
 widget_id: hero widget
 headless: true
 weight: 10
-title: ""
+title: Welcome to Kedman's Pages
+subtitle: writing to track my progress as I learn programming in Python and
+  machine learning as well as interests in the mind and neuroscience.
 design:
   background:
     gradient_end: "#1976d2"
@@ -14,6 +16,3 @@ design:
     image: bougoureau1.jpg
 hero_media: null
 ---
-**Welcome to Kedman's Pages.**
-
-Here I'll be writing and tracking my progress on several projects including **machine learning, programming in** **Python and R, mind and mental observations and neuroscience.**
