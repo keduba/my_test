@@ -1,7 +1,6 @@
 ---
 title: Update
-subtitle: "Summarising the progress I am making in Python programming and
-  Machine Learning. "
+subtitle: "Python programming and Machine Learning. "
 date: 2022-01-25T08:15:44.584Z
 summary: "*This is a post to keep up with the state of my learning. I'm using it
   to keep track of how I have been learning and studying with my goal of
@@ -35,13 +34,13 @@ That was the last week I worked. After the 18th, everything stood still for abou
 
 I started watching all of Corey's Python tutorials on the basics like modules, lists, variables, functions etc.
 
-JANUARY 2022
+### JANUARY 2022
 
 By the 5th of January, I'd finished all Corey's Python basics including trying out stuff that came to mind. Then I watched his videos that were not exactly Python like regex, environment variables, cron jobs and so on. In all it was a pretty good brushup on the basics and now I felt I could look at some people's code without feeling overwhelmed. After I was done with this, I thought I'd revisit Bash Scripting becuase there were a lot of things I felt I'd like to automate on my computer.
 
-It started first with a guide on tlcl.org but it felt weighty and expected me to do a lot without showing examples so I went back and found William Shotts' linuxcommand.org. This was better and incidentally was the one I was using in 2021 at some point during my Master thesis period. From first day, examples plenty. I started again. This time instead of taking notes, I was writing and saving and running the scripts. Sometimes I ran off on my tangents, sometimes I kept to the script to see where it was leading. This is 17th of January 2022. I've covered ground in one month. I've learnt if, case, while, until, and creating shell functions. Now I'm not scared to see grep or awk. We still dey go. The target is to be ready for Machine Learning jobs by end of February. I wrote a Calculator in Python. A simple one but I solved some bugs I met on the way and I was proud of myself.
+It started first with a guide on TLCL.org but it felt weighty and expected me to do a lot without showing examples so I went back and found William Shotts' linuxcommand.org. This was better and incidentally was the one I was using in 2021 at some point during my Master thesis period. From first day, examples plenty. I started again. This time instead of taking notes, I was writing and saving and running the scripts. Sometimes I ran off on my tangents, sometimes I kept to the script to see where it was leading. This is 17th of January 2022. I've covered ground in one month. I've learnt if, case, while, until, and creating shell functions. Now I'm not scared to see grep or awk. We still dey go. The target is to be ready for Machine Learning jobs by end of February. I wrote a Calculator in Python. A simple one but I solved some bugs I met on the way and I was proud of myself.
 
-#### 18th January:
+#### 18th January
 
 I'm going to speed through Andrew's classes. I want to complete the remaining 10 weeks in the next three weeks. So beginning with this week (today is Tuesday) I'm going to take three weeks of courses in one week. With this calculation, I should be finished in the last week of January that is also first week of February. Good luck to me. I'll be averaging four hours each day. During this four hours, research will be strictly on the problem I am trying to solve. No expanded learning. 10 am to 3 pm. From 3 pm I am completely free to go down any rabbit hole I choose until 4 pm when I have to work on the first language study for the day.
 
@@ -49,3 +48,7 @@ I'm going to speed through Andrew's classes. I want to complete the remaining 10
 
 I finished two weeks of classes last week compared to the three that I had been targeting. I hope to deal with that this week. Something was wrong with the code of my answers on one of the Octave tutorials. I got the answers but it wouldn't submit. Since the assignment is standalone, I'm going to keep going with the classes and tutorials. Then from time to time check up what could be wrong with the code. That way I can finish the course content in the time specified.
 I was planning to look at Object Oriented Programming in February but I couldn't resist. I chucked in one hour and thirty minutes for that yesterday with Corey's tutorials and went as far as the lesson on Inheritance and Subclasses. If I finish this series this January, then I'll have to replace the February plan with something else.
+
+#### 28th January
+
+Finished the Python OOP Tutorial series yesterday, all the way to Decorators. I'll still need to look at a separate video Corey made on Decorators. In the meantime for some personal reasons, I am behind on Andrew's programming assignment in Octave. I finished the tutorials for week 4 in one sitting (about 4 hours) but the programming assignments are waiting for me.
