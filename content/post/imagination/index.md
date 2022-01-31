@@ -8,7 +8,7 @@ summary: The imagination shapes the reality. Being in control or at least in
 draft: false
 featured: false
 image:
-  filename: emile-coue.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
