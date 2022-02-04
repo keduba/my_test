@@ -6,8 +6,7 @@ widget_id: hero widget
 headless: true
 weight: 10
 title: Kedman's Pages
-subtitle: Writing because I should. Interests = [Mind, Programming in Python] ;
-  Goal >= Machine Learning
+subtitle: ""
 active: true
 design:
   background:
