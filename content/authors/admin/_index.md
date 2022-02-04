@@ -16,8 +16,8 @@ highlight_name: true
 status:
 icon :
 interests:
-- Deep Learning | Neural Networks
-- Neuroscience  | Physical oceanography
+- Deep Learning - Neural Networks
+- Neuroscience  - Physical oceanography
 
 role: ocean|mind|machine-learning
 
