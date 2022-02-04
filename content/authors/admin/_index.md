@@ -14,16 +14,17 @@ email: ""
 
 highlight_name: true
 status:
-icon :
+icon :  ☕️
 interests:
-- Deep Learning - Neural Networks
-- Neuroscience  - Physical oceanography
+- Deep Learning 
+- Neuroscience  
+- Physical oceanography
 
 role: ocean|mind|machine-learning
 
 # Status emoji
 status: 
-  icon: ☕️
+  icon:
   
 social:
 - icon: envelope
