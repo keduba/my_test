@@ -2,9 +2,13 @@
 title: Update
 subtitle: "Python programming and Machine Learning. "
 date: 2022-01-25T08:15:44.584Z
-summary: "*This is a post to keep up with the state of my learning. I'm using it
-  to keep track of how I have been learning and studying with my goal of
-  becoming an expert in machine learning by the end of February.*"
+summary: >-
+  *This is a post to keep up with the state of my learning. I'm using it to keep
+  track of how I have been learning and studying with my goal of becoming an
+  expert in machine learning by the end of February.*
+
+
+  *Last update February 4th, 2022*
 draft: false
 featured: true
 image:
@@ -52,3 +56,13 @@ I was planning to look at Object Oriented Programming in February but I couldn't
 #### 28th January
 
 Finished the Python OOP Tutorial series yesterday, all the way to Decorators. I'll still need to look at a separate video Corey made on Decorators. In the meantime for some personal reasons, I am behind on Andrew's programming assignment in Octave. I finished the tutorials for week 4 in one sitting (about 4 hours) but the programming assignments are waiting for me.
+
+### FEBRUARY 2022
+
+#### 2 February
+
+Can you believe it! I thought I'd be starting Week 8 this week but I'm only just finishing Week 5. Anyway, the motivation to continue is there and I'm running with it. I'm writing the Neural Network programming assignment for Week 5, and it's going well. I should finish it today and start Week 6.
+
+#### 4 February
+
+I finished Week 6 yesterday. One day after I started it. That's good. I still have to do the programming assignment but I think I'll deal with that tomorrow which is Saturday. Today I'll work on Week 7. That way if I successfully complete the lessons for Week 7, I'll be able to do all the programming assignments for Weeks 6 and 7 at the same time. I realised that there is a tutorial for the assignments so I'll use those tomorrow too. Hopefully it should make it go faster.
