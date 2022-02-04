@@ -21,7 +21,7 @@ interests:
 - Neuroscience
 - Physical oceanography
 
-role: machine learning | mind 
+role: ocean | mind |machine-learning
 
 # Status emoji
 status: 
@@ -36,13 +36,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/keduba
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/kenechukwu-uba
+# - icon: linkedin
+ # icon_pack: fab
+  # link: https://www.linkedin.com/in/kenechukwu-uba
 
 superuser: true
 
 title: Kedman
 ---
 
-Graduate of MSc in Marine Environment and Resources. Interested in machine learning and its applications, neuroscience and mind-brain interactions, and the oceans.
+Graduate of MSc in Marine Environment and Resources. Interested in the oceans, machine learning and its applications, neuroscience and mind-brain interactions.
