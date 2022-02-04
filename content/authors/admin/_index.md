@@ -21,7 +21,7 @@ interests:
 - Neuroscience
 - Physical oceanography
 
-role: ocean | mind |machine-learning
+role: ocean|mind|machine-learning
 
 # Status emoji
 status: 
