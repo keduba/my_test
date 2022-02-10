@@ -2,13 +2,9 @@
 title: Update
 subtitle: "Python programming and Machine Learning. "
 date: 2022-01-25T08:15:44.584Z
-summary: >-
-  *This is a post to keep up with the state of my learning. I'm using it to keep
-  track of how I have been learning and studying with my goal of becoming an
-  expert in machine learning by the end of February.*
-
-
-  *Last update February 4th, 2022*
+summary: "*This is a post to keep up with the state of my learning. I'm using it
+  to keep track of how I have been learning and studying with my goal of
+  becoming an expert in machine learning by the end of February.*"
 draft: false
 featured: true
 image:
