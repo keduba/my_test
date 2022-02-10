@@ -2,13 +2,9 @@
 title: Update
 subtitle: "Python programming and Machine Learning. "
 date: 2022-01-25T08:15:44.584Z
-summary: >-
-  *This is a post to keep up with the state of my learning. I'm using it to keep
-  track of how I have been learning and studying with my goal of becoming an
-  expert in machine learning by the end of February.*
-
-
-  *Last update February 4th, 2022*
+summary: "*This is a post to keep up with the state of my learning. I'm using it
+  to keep track of how I have been learning and studying with my goal of
+  becoming an expert in machine learning by the end of February.*"
 draft: false
 featured: true
 image:
@@ -66,3 +62,11 @@ Can you believe it! I thought I'd be starting Week 8 this week but I'm only just
 #### 4 February
 
 I finished Week 6 yesterday. One day after I started it. That's good. I still have to do the programming assignment but I think I'll deal with that tomorrow which is Saturday. Today I'll work on Week 7. That way if I successfully complete the lessons for Week 7, I'll be able to do all the programming assignments for Weeks 6 and 7 at the same time. I realised that there is a tutorial for the assignments so I'll use those tomorrow too. Hopefully it should make it go faster.
+
+#### 10 February
+
+Due to personal obligations over the weekend of 5-6 February I did not do the programming assignments as I had proposed. Instead I did them on Monday the 7th of February. The first assignment for Week 6 (ex5) took longer than I had anticipated, and I ended up completing both (ex5 and ex6) programming assignments the next day Feb 8th. Same day I started the classes for week 8, took the quizzes and skipped the programming assignment like I did the last time.
+
+I repeated the same for Week 9 which I also did on February 9th (yesterday). Large number of videos. I was zapped after some time. Took a break and finished Week 9 at night, quizzes and all, tout compris. Today I attacked Weeks 10 and 11, and I'm officially done. The programming assignments for Weeks 8 and 9 (ex7 and ex8) will be completed today.
+
+As I write this, I'm 98% done with Andrew Ng's Machine Learning Course. And I'm happy to pat myself on the back and say well done for completing four weeks of classes in three days. And thank you too to Dr. Ng for putting together such a wonderful resource on Coursera.
