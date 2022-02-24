@@ -89,4 +89,4 @@ What was I up to in the last 9 days? Earlier I was reading Dr. Charles Severance
 
 I hope to find out which is more useful between PyTorch and TensorFlow as I do this course. I'm also aware that I should be leaning towards [Kaggle](www.kaggle.com) at this point. Someone referred to their Machine Learning projects as 'toy' projects. If I haven't played with the toys, what's gonna happen to me and the real thing?
 
-By the way, in the course of editing this post, I switched to markdown, and I think it's hands-down better than RTF because I can add hyperlinks effortlessly. Fancing figuring this out in less than 10 seconds. And to think I always dreaded Markdown!
+By the way, in the course of editing this post, I switched to markdown, and I think it's hands-down better than RTF because I can add hyperlinks effortlessly. Fancy figuring this out in less than 10 seconds. And to think I always dreaded Markdown!
