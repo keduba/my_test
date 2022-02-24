@@ -1,7 +1,7 @@
 ---
 title: Update
 subtitle: "Python programming and Machine Learning. "
-date: 2022-01-25T08:15:44.584Z
+date: 2022-02-24T08:41:37.511Z
 summary: "*This is a post to keep up with the state of my learning. I'm using it
   to keep track of how I have been learning and studying with my goal of
   becoming an expert in machine learning by the end of February.*"
@@ -55,15 +55,15 @@ Finished the Python OOP Tutorial series yesterday, all the way to Decorators. I'
 
 ### FEBRUARY 2022
 
-#### 2 February
+#### 2nd  February
 
 Can you believe it! I thought I'd be starting Week 8 this week but I'm only just finishing Week 5. Anyway, the motivation to continue is there and I'm running with it. I'm writing the Neural Network programming assignment for Week 5, and it's going well. I should finish it today and start Week 6.
 
-#### 4 February
+#### 4th February
 
 I finished Week 6 yesterday. One day after I started it. That's good. I still have to do the programming assignment but I think I'll deal with that tomorrow which is Saturday. Today I'll work on Week 7. That way if I successfully complete the lessons for Week 7, I'll be able to do all the programming assignments for Weeks 6 and 7 at the same time. I realised that there is a tutorial for the assignments so I'll use those tomorrow too. Hopefully it should make it go faster.
 
-#### 10 February
+#### 10th February
 
 Due to personal obligations over the weekend of 5-6 February I did not do the programming assignments as I had proposed. Instead I did them on Monday the 7th of February. The first assignment for Week 6 (ex5) took longer than I had anticipated, and I ended up completing both (ex5 and ex6) programming assignments the next day Feb 8th. Same day I started the classes for week 8, took the quizzes and skipped the programming assignment like I did the last time.
 
@@ -71,10 +71,22 @@ I repeated the same for Week 9 which I also did on February 9th (yesterday). Lar
 
 As I write this, I'm 98% done with Andrew Ng's Machine Learning Course. And I'm happy to pat myself on the back and say well done for completing four weeks of classes in three days. And thank you too to Dr. Ng for putting together such a wonderful resource on Coursera.
 
-#### 15 February
+#### 15th February
 
-Yesterday was the Feast of St. Valentine also known as Valentine's Day, the global day to celebrate legitimate lovers (couples and those who are engaged). And I was on the train going from one city to another across two countries. I started working when I got on the train, and was happy to finally conclude and submit the last programming assignment by 10:40 am. Finally I had 100% completion of Dr. Andrew Ng's Machine Learning Course, with a 97.91% score.
+Yesterday was the Feast of St. Valentine also known as Valentine's Day, the global day to celebrate legitimate lovers (couples and those who are engaged). And I was on the train going from one city to another across two countries. I started working when I got on the train, and was happy to finally conclude and submit the last programming assignment by 10:40 am. I worked on the two programming assignments on the night of 12th and 13th, and morning of 14th. Finally I have 100% completion of Dr. Andrew Ng's [Machine Learning Course](https://www.coursera.org/learn/machine-learning/home/welcome), with a 97.25% score.
 
-I was proud of myself. However knowing that that course is over 10 years old, I have to start work on the next stage to update what I learnt and apply myself to use them in actual work environment by carrying out some projects.
+I was proud of myself. However knowing that that course is over 10 years old, I have to start work on the next stage to update what I learnt and apply myself to use them in an actual work environment by carrying out some projects.
 
-I was particularly proud of myself because I gave myself targets and pushed them through. Last Friday I also learnt how to use Git for code version control. I read [the book](https://git-scm.com/book/en/), took a tutorial on [W3Schools](< https://www.w3schools.com/git/>), and read another guide on [Digital Ocean](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide). So now all the fuzz I had looking at GitHub is gone. I also stumbled on [an article](https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects) by [Lisa Tagliaferri](https://lisatagliaferri.com/) on maintaining open-source projects that led me to read about [Licenses](https://choosealicense.com/) for open-source software. I think it's good I ran into it at this time because if I'm writing software, I should know how to deal with the licensing early on. As I was typing this I realised I should link to the articles and guides for SEO and also ease of search for anyone who might stumble on this post to read it. So I'm pressing pause to go get the link... Now all the links are on the articles.
+I was particularly proud of myself because I gave myself targets and pushed them through. Last Friday I also learnt how to use Git for code version control. I read [the book](https://git-scm.com/book/en/), took a tutorial on [W3Schools](< https://www.w3schools.com/git/>), and read another guide on [Digital Ocean](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide). So now all the fuzz I had looking at GitHub is gone. I also stumbled on an article by [Lisa Tagliaferri](https://lisatagliaferri.com/) on [maintaining open-source projects](https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects) that led me to read about [Licenses](https://choosealicense.com/) for open-source software. I think it's good I ran into it at this time because if I'm writing software, I should know how to deal with the licensing early on. Afterwards I found [more well-written resources on open-source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) in general. As I was typing this I realised I should link to the articles and guides for SEO and also ease of search for anyone who might stumble on this post to read it. So I'm pressing pause to go get the links... Now all the links are on the articles.
+
+#### 24th February 
+
+I haven't updated or posted since 9 days because I was busy writing code and doing exercises. I had intended to start working on Machine Learning projects directly but the exertion of the two last weeks sort of took its tool. Meanwhile since I had been working mainly on Octave, I wanted to learn a bit about setting up my work environment in Python. I read a number of blogs about the best, or at least reasonable, code editors for Python. I'd already used Sublime Text in the past as well as Atom and VS Code. The last two seemed to me a bit clunky. I liked Sublime but I wanted something more native to Python, so I stuck with the PyCharm that I'd already installed. I also got a book that's like a tutorial on how to get the most out of it. By the way, I'm hoping to start contributing to tutorials in a few months. Places like [Digital Ocean](www.digitalocean.com), [Real Python](www.realpython.com), [Finxter](www.finxter.com) would be a good start.
+
+On the subject of code editors, I have the feeling I'm going to want to try Vims and Emacs. They seem to have such high ratings among developers. For the moment, I type with Kate (comes with Kubuntu). I like the fact that I can divide my writing into sessions and choose the kind of syntax I want but I haven't figured out how to do the thing where you embed a website link in a text. That would make writing blog posts in Kate so much better. **Pause** going to check online to see if I'll find something... One sec and I'll be right back. Back after 5 minutes. Didn't find anything. Will try again later. **I embed the links using the blog CMS.**
+
+What was I up to in the last 9 days? Earlier I was reading Dr. Charles Severance book, [Python for Everyone](www.py4e.com), on my tablet. I thought the exercises he gave were really valuable exercises. I had found his book by a chance DuckDuckGo search that landed me on [Jamison Lahman's site](jmelahman.github.io/) while I was working on the Coursera ML exercises. So I gave his book a go. From Friday 18th till yesterday, Wednesday 23rd, I worked through the book and the exercises. It was good to write code that did stuff and start to think about clean coding too. The last exercises I did were the ones in Chapter 11. I'm not doing the 12 and 13 yet because I want to go straight to Machine Learning. However I read through to the end of the book and tried to get a grasp of the remaining topics particularly SQL. I'll revisit those remaining chapters later as I progress with my ML classes. The ML classes I'm referring to is based on the course Zero to Mastery Machine Learning by [Daniel Bourke](mrdbourke.com) and [Andrei Neagoie](zerotomastery.io). I really need to get my foot in the door by the end of March so I'm not really keen on stuff that I cannot use now.
+
+I hope to find out which is more useful between PyTorch and TensorFlow as I do this course. I'm also aware that I should be leaning towards [Kaggle](www.kaggle.com) at this point. Someone referred to their Machine Learning projects as 'toy' projects. If I haven't played with the toys, what's gonna happen to me and the real thing?
+
+By the way, in the course of editing this post, I switched to markdown, and I think it's hands-down better than RTF because I can add hyperlinks effortlessly. Fancing figuring this out in less than 10 seconds. And to think I always dreaded Markdown!
