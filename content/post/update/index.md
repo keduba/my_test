@@ -69,7 +69,7 @@ I finished Week 6 yesterday. One day after I started it. That's good. I still ha
 
 Due to personal obligations over the weekend of 5-6 February I did not do the programming assignments as I had proposed. Instead I did them on Monday the 7th of February. The first assignment for Week 6 (ex5) took longer than I had anticipated, and I ended up completing both (ex5 and ex6) programming assignments the next day Feb 8th. Same day I started the classes for week 8, took the quizzes and skipped the programming assignment like I did the last time.
 
-I repeated the same for Week 9 which I also did on February 9th (yesterday). Large number of videos. I was zapped after some time. Took a break and finished Week 9 at night, quizzes and all, tout compris. Today I attacked Weeks 10 and 11, and I'm officially done. The programming assignments for Weeks 8 and 9 (ex7 and ex8) will be completed today.
+I repeated the same for Week 9 which I also did on February 9th (yesterday). Large number of videos. I was zapped after some time. Took a break and finished Week 9 at night, quizzes and all, *tout compris*. Today I attacked Weeks 10 and 11, and I'm officially done. The programming assignments for Weeks 8 and 9 (ex7 and ex8) will be completed today.
 
 As I write this, I'm 98% done with Andrew Ng's Machine Learning Course. And I'm happy to pat myself on the back and say well done for completing four weeks of classes in three days. And thank you too to Dr. Ng for putting together such a wonderful resource on Coursera.
 
