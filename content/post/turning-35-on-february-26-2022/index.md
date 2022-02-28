@@ -10,8 +10,8 @@ image:
 ---
 #### Contents
 1. [Preamble](#preamble)
-2. [Mental Growth](#mentalgrowth)
-3. [Physical Growth](#physicalgrowth)
+2. [Mental Growth](#mental-growth)
+3. [Physical Growth](#physical-growth)
 4. [Learning](#learning)
 5. [Virtues](#virtues)
 6. [Results](#results)
