@@ -51,7 +51,7 @@ Now I start with getting the hang of the concepts and the idea, and then if I ne
 
 ## Virtues
 
-To be truly good requires having what are called Virtues. They are essentially habits that are acquired with practice of doing what is good. In this case, *good != nice*. Good can sometimes seem unnice but it can never be bad no matter how you look at it. I would like to be have virtues because I have observed people and my conclusion is that life is hard enough already, and whether we oppose evil or not, it will still be hard. So one might as well get up and fight.
+To be truly good requires having what are called Virtues. They are essentially habits that are acquired with practice of doing what is good. In this case, `good != nice`. Good can sometimes seem unnice but it can never be bad no matter how you look at it. I would like to be have virtues because I have observed people and my conclusion is that life is hard enough already, and whether we oppose evil or not, it will still be hard. So one might as well get up and fight.
 
 Acquiring virtues implies a constant fight against oneself, getting up in the morning, starting work at the right time, thinking well of people we don't want to think well of, paying our debts though we could get away with not paying (at least for the moment), accepting when we are wrong and being sincerely sorry for it, being punctual to our duties, resisting the temptations of illicit pleasures and so on. Most of the time, the desire to have these Virtues is a function of one's outlook on life.
 
