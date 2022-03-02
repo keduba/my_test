@@ -15,17 +15,17 @@ image:
 *This is a post to keep up with the state of my learning. I'm using it to keep track of how I have been learning and studying with my goal of becoming an expert in machine learning by the end of February.*
 
 ## Posts Outline
-[November 2021](#november-2021)
-[December 2021](#december-2021)
-[January 2022](#january-2022)
-    [January 18](#january-18)
-    [January 25](#january-25)
-    [January 28](#january-28)
-[February 2022](#febuary-2022)
-    [February 2](#february-2)
-    [February 4](#february-4)
-    [February 15](#february-15)
-    [February 24](#february-24)
+- [November 2021](#november-2021)
+- [December 2021](#december-2021)
+- [January 2022](#january-2022)
+  -  [January 18](#january-18)
+  -  [January 25](#january-25)
+  -  [January 28](#january-28)
+- [February 2022](#febuary-2022)
+  - [February 2](#february-2)
+  -   [February 4](#february-4)
+  -   [February 15](#february-15)
+  -   [February 24](#february-24)
 ### November 2021
 
 I resumed studying after the 8th of November with Andrew Ng's Machine Learning course on Coursera. At the same time, I was trying to put in some webscraping skills from Al Sweigart's book Automate the Boring Stuff with Python but I didn't have much success. Some things worked and others didn't. The whole thing looked simple and hard at the same time. I decided I'd have to watch some videos to learn how it could be done well. So I kept it aside for the meantime. 
