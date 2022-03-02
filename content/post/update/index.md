@@ -14,7 +14,7 @@ image:
 ---
 *This is a post to keep up with the state of my learning. I'm using it to keep track of how I have been learning and studying with my goal of becoming an expert in machine learning by the end of February.*
 
-## Posts Outline
+## Outline
 - [November 2021](#november-2021)
 - [December 2021](#december-2021)
 - [January 2022](#january-2022)
