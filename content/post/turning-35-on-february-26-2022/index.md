@@ -19,7 +19,9 @@ image:
 
 ## Preamble
 
-I turned 35 on February 26, 2022. There was a time some years ago when I used to check for those who were also born on this day. I feel a personal affinity to all those born in February. I call us Los febreros. One of those with whom I share this special day is Émile Coué, the French pharmacist-turned-hypnotist of Nancy. Born on 26 February 1857, he was the father of modern autosuggestion.
+I turned 35 on February 26, 2022.
+
+There was a time some years ago when I used to check for those who were also born on this day. I feel a personal affinity to all those born in February. I call us Los febreros. One of those with whom I share this special day is Émile Coué, the French pharmacist-turned-hypnotist of Nancy, North-west France. Born on 26 February 1857, he was the father of modern autosuggestion.
 
 Since July 2018 when I first discovered his work till November 2020 when I had to really put it into practice again, and in 2021 when I was positively living on autosuggestion, till date when from time to time I practice different forms of it to get a grip on things, I feel a gratitude to him for his discoveries in this field. It is nothing like the new age nonsense that we see, and it is an honest relief.
 
@@ -35,27 +37,28 @@ I learnt this concretely in the last one year. We can choose to think good of ou
 
 ## Physical growth
 
-I need not draw afresh the link between a good healthy mind and a corresponding physical appearance but it goes without saying. When your mind is clear and clean, it reflects on your face, in your eyes. You eat and the food is able to digest properly and do its functions on your body. You can grow physically. Contrast with children in war torn areas, they are malnourished not just because the food is not there but even what little there is cannot nourish them because the mind is stressed with the greater question of if they'll survive the night, if it's worth nourishing the body so it dies again. Another group of people that prove this point is those suffering from depression, or any of the forms of neurosis or psychosis. They always have a pallor or something that is not 'quite right' in their appearance that tells you that all is not well *inside*.
+I need not draw afresh the link between a good healthy mind and a corresponding physical appearance but it goes without saying. When your mind is clear and clean, it reflects on your face, in your eyes. You eat and the food is able to digest properly and do its functions on your body. You can grow physically. Contrast with children in war-torn areas, they are malnourished not just because the food is not there but even what little there is cannot nourish them as the mind is stressed with the greater question of if they'll survive the night, if it's worth nourishing the body when it's going to die. Another group of people that prove this point is those suffering from depression, or any of the forms of neurosis or psychosis. They always have a pallor or something that is not 'quite right' in their appearance that tells you that all is not well *inside*.
 
-In the past year, as I shed off lots of fears, anxieties and worries and grew in confidence in God, my physical appearance changed too. Even to me in a succinct way, I have caught myself wondering as I walked past a mirror, a car or even a shop glass, "Is that me?" My hair that was all but receded two years ago (in 2020) seems to have come back a bit on its own. I also put up weight of about 7 kilos in under three months.
+In the past year, as I shed off lots of fears, anxieties and worries and grew in confidence in God, my physical appearance changed too. Even to me in a succinct way, I have caught myself wondering as I walked past a mirror, a car or even a shop glass, "Is that me?" My hair that was all but receded two years ago (in 2020) seems to have come back a bit on its own. I also gained about 7 kilos in less than three months.
 
 ## Learning
 
-In the first year of my Master's studies, I struggled terribly with the fixed attitude of learning. I thought that the way I could learn was already fixed in my mind and could not be changed. I also thought erroneously that I had to already know stuff. This absolute approach dealt with me mercilessly. At the end of the first year around August 2020, reading *The Art of Learning by Josh Waitzkin*, I realised that there is a better way, the incremental approach.
+In the first year of my Master's studies, I struggled terribly with the fixed attitude* of learning. I thought that the way I could learn was already fixed in my mind and could not be changed. I also thought erroneously that I had to already know stuff. This *absolute* approach dealt with me mercilessly. At the end of the first year around August 2020, reading *The Art of Learning by Josh Waitzkin*, I realised that there is a better way, the incremental approach.
 
-I learnt that looking at learning as an ongoing process was way better and more practical than the fixed mindset. Sadly, old habits die hard, and it took me more than a year to internalise this. Now I approach my studies in Machine Learning with this perspective and it is going much better with me because I am no longer disappointed, discouraged or distracted. I know that I don't know but I also know that I can learn and that I can learn fast.
+I learnt that looking at learning as an ongoing process is way better and more practical than the fixed mindset. Sadly, old habits die hard, and it took me more than a year to internalise this. Now I approach my studies in Machine Learning with this perspective and it is going much better with me because I am no longer disappointed, discouraged or distracted. I know that I don't know but I also know that I can learn and that I can learn fast.
 
-When I took the course *Learning How to Learn* by Dr. Barbara Oakley and Dr. Terrence Sejnowski on [Coursera](https://www.coursera.org/learn/learning-how-to-learn) in August 2021, I was reminded of the same idea and this time I paid more attention as it also came with guides to deal with overwhelm and other things that distract from learning properly.
-Now I start with getting the hang of the concepts and the idea, and then if I need them, I go for the details.
+When I took the course *Learning How to Learn* by Dr. Barbara Oakley and Dr. Terrence Sejnowski on [Coursera](https://www.coursera.org/learn/learning-how-to-learn) in August 2021, I was reminded of the same idea and this time I paid more attention as the course also came with guides to deal with overwhelm and other things that distract one from learning properly.
+
+Now when I approach a new subject, I start with getting the hang of the concepts and the idea, and then if I need them, I go for the details.
 
 
 ## Virtues
 
-To be truly good requires having what are called Virtues. They are essentially habits that are acquired with practice of doing what is good. In this case, `good != nice`. Good can sometimes seem unnice but it can never be bad no matter how you look at it. I would like to be have virtues because I have observed people and my conclusion is that life is hard enough already, and whether we oppose evil or not, it will still be hard. So one might as well get up and fight.
+To be truly good requires having what are called Virtues. They are essentially habits that are acquired with practice of doing what is good. In this case, `good != nice`. Good can sometimes seem un-nice but it can never be bad no matter how you look at it. I would like to have virtues because, having observed the way we live, my conclusion is that life is hard enough already, and whether we oppose evil or not, it will still be hard. So one might as well get up and fight.
 
 Acquiring virtues implies a constant fight against oneself, getting up in the morning, starting work at the right time, thinking well of people we don't want to think well of, paying our debts though we could get away with not paying (at least for the moment), accepting when we are wrong and being sincerely sorry for it, being punctual to our duties, resisting the temptations of illicit pleasures and so on. Most of the time, the desire to have these Virtues is a function of one's outlook on life.
 
-A supernatural outlook will definitely make it a priority whereas a temporal outlook on life will be happy to want to just get by. In any case, the virtues I hope to acquire are humility, modesty and purity (especially of mind). Modesty is first because it is the guardian of purity.
+A supernatural outlook will definitely make it a priority whereas a temporal outlook on life will be happy to want to just get by. In any case, the virtues I hope to acquire are humility, modesty and purity (especially of mind). Modesty is first because it is the guardian of purity, and a pure mind will go far.
 
 Though not virtues per se, I would also like to be an overhauled melancholic who is able to work fast and clear my targets speedily. Having targets is the first step to moving quickly.
 
@@ -66,13 +69,13 @@ With a clear mind, anyone can apply themselves to learn anything and build the s
 
 I used to think that all that should be written on any subject has been written or that all that should be invented has been invented, but when I started to make effort to be a better and more confident person, I discovered that for every epoch people have to do what they have to do to solve the problems that they face at their time, and everyone can chip in their *tuppence* to move things along.
 
-Rather than move forward while looking back or, worse still, walking backwards in the direction of the future while looking all the time at the past, turn your back on the past and face the future squarely. The past recedes and if you are determinedly going forward, what is past will eventually leave you alone if you let go of it.
+Rather than move forward while looking back or, worse still, walking backwards in the direction of the future while facing the past, turn your back on the past and face the future squarely. The past recedes and if you are determined to go forward, what is past will eventually leave you alone if you let go of it.
 
 ## Conclusion
 
 This is the first time I am writing on my birthday. I hope to do this in the coming years as a way to look at the direction that my compass has led me, and the experiences I have gathered in the process.
 
-*Nemo dat quod non habet* as the Latin adage says. No one gives what he does not have. If you must give, you must work to acquire it, whatever *it* may be.
+*Nemo dat quod non habet* as the Latin adage says. No one gives what he does not have. If you must give it, you should have it. To have it, work to acquire it whatever *it* may be.
 
 *Age quod agis* loosely translated to "Do what you are doing," can also be expressed in these strong words, "Whatever your hands find to do, do it with your might."
 
