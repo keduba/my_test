@@ -41,16 +41,16 @@ Well, I took it a little step further and used it to deal with my annoying, pain
 
 I should explain that I have a predominantly melancholy temperament which means that it is as easy for me to brood over past hurts whether real or imagined as it is for some people to make friends and laugh with everyone they meet. So I categorised these memories into two distinct groups: the sins (the wrongs I did mostly deliberately) and the faults (wrongs that were inadvertent and not deliberate).
 
-The deliberate ones are called sins because you know they are bad and you do them anyway whatever the consequences (which sometimes we don't really appreciate the magnitude of). The faults are things that we do wrong because of our temperament, our nature or plain ignorance. They can be really bad, but not as bad as the deliberate sins. Sometimes faults we refuse to acknowledge can go from being just a shortcoming to  becoming a strong magnet to the worst kinds of sins.
+The deliberate ones are called sins in Christian parlance because you know they are bad and you do them anyway without caring for the consequences (which sometimes we don't really appreciate the magnitude of). The faults are things that we do wrong because of our temperament, our nature or plain ignorance. They can be really bad, but not as bad as the deliberate sins. Sometimes faults we refuse to acknowledge can go from being just a shortcoming to  becoming a strong magnet to the worst kinds of sins.
 
 In any case, like every human being I have my share of both. The painful part was that when I remembered them they made me real sad. And the faults sometimes hurt more than the sins. This is because as Catholics you confess the sins to the priest and he absolves you and the sins go away, effaced. But we forget or sometimes don't consider the faults as worth confessing so they stay and they attract the sins again. Plus faults can be really embarrassing and hurt our pride while also assuming different shapes in the mind.
 
-At this point I was done being exhausted and mentally distracted. So I decided to apply vectorisation. In my memory, there were lots of sins, mostly confessed. And there were lots of faults big and small. Rather than go through them one by one and either pray about them or think about how to forget them one at a time, I created vectors of both.
+At this point I was done being exhausted and mentally distracted. So I decided to apply vectorisation. In my memory, there were lots of wrongs, mostly confessed. And there were lots of faults big and small. Rather than go through them one by one and either pray about them or think about how to forget them one at a time, I created vectors of both.
 
 ```octave
 
-faults =  m * n;  # matrix of the faults I had and recalled
-evils = m * n; # matrix of the sins that had been to the confessional
+faults =  m * n;  # matrix of the faults
+evils = m * n; # matrix of the moral wrongs 
 memories = faults * evils;
 
 ```
