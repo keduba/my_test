@@ -48,6 +48,7 @@ In any case, like every human being I have my share of both. The painful part wa
 At this point I was done being exhausted and mentally distracted. So I decided to apply vectorisation. In my memory, there were lots of wrongs, mostly confessed. And there were lots of faults big and small. Rather than go through them one by one and either pray about them or think about how to forget them one at a time, I created vectors of both.
 
 ```octave
+# m and n is each a real number greater than 1
 
 faults =  m * n;  # matrix of the faults
 evils = m * n; # matrix of the moral wrongs 
