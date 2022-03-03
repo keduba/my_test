@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: native
-font_size: L
+font_size: M
 
 # SEO
 
@@ -76,17 +76,17 @@ highlight_languages:
   - r
   - python
   - latex
-math: false
-diagram: false
+math: true
+diagram: true
 privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
   repo_branch: main
   editable:
-    page: false
+    page: true
     post: true
-    book: false
+    book: true
 show_related:
   book: true
   page: true
@@ -107,7 +107,7 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
   date_format: January 2006
@@ -138,7 +138,7 @@ search:
     app_id: ''
     api_key: ''
     index_name: ''
-    show_logo: false
+    show_logo: true
 map:
   provider: mapnik
   api_key: ''
