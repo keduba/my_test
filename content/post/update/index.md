@@ -12,7 +12,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-*This is a post to keep up with the state of my learning. I'm using it to keep track of how I have been learning and studying with my goal of becoming an expert in machine learning by the end of February.*
+*This is a post to keep up with the state of my learning. I'm using it to keep track of how I have been learning and studying with my goal of becoming an expert in machine learning by the end of February 2022.*
 
 ## Outline
 - [November 2021](#november-2021)
