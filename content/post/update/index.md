@@ -12,7 +12,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-*This is a post to keep up with the state of my learning. I'm using it to keep track of how I have been learning and studying with my goal of becoming an expert in machine learning by the end of February.*
+*This is a post to keep up with the state of my learning. I'm using it to keep track of how I have been learning and studying with my goal of becoming an expert in machine learning by the end of February 2022.*
 
 ## Outline
 - [November 2021](#november-2021)
@@ -26,6 +26,9 @@ image:
   -   [February 4](#february-4)
   -   [February 15](#february-15)
   -   [February 24](#february-24)
+- [March 2022](#march-2022)
+  - [March 8](#march-8)
+
 ### November 2021
 
 I resumed studying after the 8th of November with Andrew Ng's Machine Learning course on Coursera. At the same time, I was trying to put in some webscraping skills from Al Sweigart's book Automate the Boring Stuff with Python but I didn't have much success. Some things worked and others didn't. The whole thing looked simple and hard at the same time. I decided I'd have to watch some videos to learn how it could be done well. So I kept it aside for the meantime. 
@@ -104,3 +107,20 @@ What was I up to in the last 9 days? Earlier I was reading Dr. Charles Severance
 I hope to find out which is more useful between PyTorch and TensorFlow as I do this course. I'm also aware that I should be leaning towards [Kaggle](www.kaggle.com) at this point. Someone referred to their Machine Learning projects as 'toy' projects. If I haven't played with the toys, what's gonna happen to me and the real thing?
 
 By the way, in the course of editing this post, I switched to markdown, and I think it's hands-down better than *Rich Text Format* because I can add hyperlinks effortlessly. Fancy figuring this out in less than 10 seconds. And to think I always dreaded Markdown!
+
+### MARCH 2022
+#### March 8
+__Zero to Mastery Starts__
+
+I started the ZTM course in Machine Learning and Data Science on March 3rd. It's going well, and I'm all in.
+
+*__Change in attitude__*:
+Sometimes at study I get exhausted which is expected since I start from 8:30am and go on till about 3:00 pm. Then to chill out, I just read up stuff especially long form writing in the areas where I am going to: getting jobs, doing LinkedIn updates, getting inspired and discovering new links and resources in Data Science, Machine Learning, Bash, Business and Innovation.
+
+On Wednesday 2nd, someone was referred to me that had a problem with accessing his files on Windows. I thought I'd be able to fix the boot issues the Windows way  and get his files out but all the tips I saw online did not work for me. Finally I decided to go the Linux way. Run Linux on it and extract the files. I'm going to write this in a blog post so I'm not going to go into details here.
+
+However, while I saw it in the light of helping a friend's friend, he saw it as me providing a service and wanted to pay for it. He wasn't happy that when he arrived at the time I said it would be ready, I hadn't finished transferring all his data to the new computer. And here I was busy feeling like after 24 hours and some staying up to migrate his directories and files out, he was going to be like, "Thank you so much," and all. So something switched in my head before I finished transferring his documents back.
+
+I modified my brain. Henceforth, I'm no longer seeing help as helping, I see it as a service. For me it is help, but from the eyes of the person he is a client and therefore it is a service. To not be _heartbroken_ I should also look at it as he does, like I'm providing a service. This means that the whole nine (or maybe five) yards is in: time, tools, results, communication and charging.
+
+I am applying this same attitude to my training, including the time I spend on tasks, the breaks, the outcomes and networking to get more work. That is to say everything that makes for good work is going in, no holds barred.
