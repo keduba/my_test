@@ -28,6 +28,7 @@ image:
   -   [February 24](#february-24)
 - [March 2022](#march-2022)
   - [March 8](#march-8)
+  - [March 11](#march-11)
 
 ### November 2021
 
@@ -115,6 +116,7 @@ __Zero to Mastery Starts__
 I started the ZTM course in Machine Learning and Data Science on March 3rd. It's going well, and I'm all in.
 
 *__Change in attitude__*:
+
 Sometimes at study I get exhausted which is expected since I start from 8:30am and go on till about 3:00 pm. Then to chill out, I just read up stuff especially long form writing in the areas where I am going to: getting jobs, doing LinkedIn updates, getting inspired and discovering new links and resources in Data Science, Machine Learning, Bash, Business and Innovation.
 
 On Wednesday 2nd, someone was referred to me that had a problem with accessing his files on Windows. I thought I'd be able to fix the boot issues the Windows way  and get his files out but all the tips I saw online did not work for me. Finally I decided to go the Linux way. Run Linux on it and extract the files. I'm going to write this in a blog post so I'm not going to go into details here.
@@ -124,3 +126,9 @@ However, while I saw it in the light of helping a friend's friend, he saw it as 
 I modified my brain. Henceforth, I'm no longer seeing help as helping, I see it as a service. For me it is help, but from the eyes of the person he is a client and therefore it is a service. To not be _heartbroken_ I should also look at it as he does, like I'm providing a service. This means that the whole nine (or maybe five) yards is in: time, tools, results, communication and charging.
 
 I am applying this same attitude to my training, including the time I spend on tasks, the breaks, the outcomes and networking to get more work. That is to say everything that makes for good work is going in, no holds barred.
+#### March 11
+_**Scikit-Learn**_
+
+I hit this topic today. When I got to the video that said Scikit-Learn, I felt positively elated. Hitting sciKit-Learn is like arriving at a long-awaited destination, like I'm now at the real machine learning. I'm happy and I'm proud of myself. I hope it goes well, and I'm deadpan sure it will.
+
+In the last four days, I worked on Pandas, numPy and matplotlib. I covered a healthy amount of the basics in the three packages. Knowing Python already is a big help. There's a Python module in the ZTM Machine Learning and Data Science course though I haven't looked at it yet. I know I'll find some interesting things there but since I already have a very good grasp of Python syntax I'll keep going forward. That module is going to be something I'll use to learn new stuff and polish up as I advance.
