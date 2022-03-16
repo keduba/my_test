@@ -29,7 +29,7 @@ https://*This is a post to keep up with the state of my learning. I'm using it t
 - [March 2022](#march-2022)
   - [March 8](#march-8)
   - [March 11](#march-11)
-
+  - [March 15](#march-15)
 ### November 2021
 
 I resumed studying after the 8th of November with Andrew Ng's Machine Learning course on Coursera. At the same time, I was trying to put in some webscraping skills from Al Sweigart's book Automate the Boring Stuff with Python but I didn't have much success. Some things worked and others didn't. The whole thing looked simple and hard at the same time. I decided I'd have to watch some videos to learn how it could be done well. So I kept it aside for the meantime. 
@@ -132,3 +132,24 @@ _**Scikit-Learn**_
 I hit this topic today. When I got to the video that said Scikit-Learn, I felt positively elated. Hitting sciKit-Learn is like arriving at a long-awaited destination, like I'm now at the real machine learning. I'm happy and I'm proud of myself. I hope it goes well, and I'm deadpan sure it will.
 
 In the last four days, I worked on Pandas, numPy and matplotlib. I covered a healthy amount of the basics in the three packages. Knowing Python already is a big help. There's a Python module in the ZTM Machine Learning and Data Science course though I haven't looked at it yet. I know I'll find some interesting things there but since I already have a very good grasp of Python syntax I'll keep going forward. That module is going to be something I'll use to learn new stuff and polish up as I advance.
+
+#### March 15
+Still on Scikit-Learn. I gotta give it to Daniel Bourke. He knows how to teach. Following his classes made me think that you don't have to be the last word on a subject to teach another person. You only need to know a little more than the person you are trying to teach.
+
+He has a way of running through new things and showing you how to look for it yourself without being stumped on the details, something I picked when I did the _Learning How to Learn_ course. I already use this technique when I help my friends with their programming assignments in R.
+
+___Need something?___
+
+Look it up. Copy the example. Modify it to your own.
+
+___Why is that this way and not another way?___
+
+Read quickly through the documentation.
+
+___Getting sucked in?___
+
+Stop. Step back.
+
+Time is the measure. Some things will definitely take more time than others to figure out, so let's keep the time free for those kinds of tasks. When dealing with little things, just shoot from the hip. Go straight to the task. That way when you've dealt with the little things and got them out of the way, you'll find that you might have earned yourself some extra time that you can use to explore the more stubborn problems.
+
+When I got fazed out after about four, five hours of ML codes I turned to reading the book ___Cracking the Coding Interview___. Instantly my eyes were alert. There is no time to lose. So we keep going.
