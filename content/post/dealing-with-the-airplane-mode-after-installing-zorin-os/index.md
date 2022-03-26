@@ -81,7 +81,7 @@ Then you have to update the grub or the problem will stay and not go away despit
 
 `sudo update-grub`
 
-![sudo update-grub](grub_edit_3.png "update your grub")
+![sudo update-grub](grub_edit_3.png "update the grub")
 
 ### My Tuppence
 
