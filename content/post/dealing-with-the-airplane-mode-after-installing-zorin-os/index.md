@@ -25,8 +25,7 @@ It took hours to find a solution. I tried all the popular solutions that were pu
 
 Run it and you will find all the radio devices that are on the computer.
 
-
-![rfkill command listing the radio devices](tutorial_rfkill.png "rfkill command")
+![rfkill command listing the radio devices](tutorial_rfkill.png "rfkill list command")
 
 EXAMPLE commands taken from the man page for rfkill.
 
@@ -43,7 +42,6 @@ I ran all the variations of this command and none of them worked.
 
 ![rfkill list ( to list the radio devices after unblocking)](rfkill_list.png "rfkill list")
 
-
 So I continued to look. Then I stumbled on the next solution which involves the ACPI kernel parameter. I'll present the solution first before trying to explain what the `acpi` stands for or does.
 
 ### Another almost hidden solution
@@ -56,13 +54,15 @@ First you'll open your grub file.
 sudo nano /etc/default/grub
 ```
 
-![]()
+![](grub_edit_1.png)
 
 Then on the line with: GRUB_CMDLINE_LINUX_DEFAULT="quiet splash",  *add*  `acpi_osi=!` and you are done.
 
 ```
 GRUB_CMDLINE_LINUX_DEFAULT="quiet splash acpi_osi=!"
 ```
+
+![](grub_edit_4.png)
 
 One can also enter `acpi_osi="Linux"` which works well on Linux, or
 `acpi_osi='Windows 2019'` to mimic Windows 10, version 1903.
@@ -72,6 +72,12 @@ One can also enter `acpi_osi="Linux"` which works well on Linux, or
 `acpi_osi=! acpi_osi='Windows 2019'`
 
 After entering this value, hit CTRL-S, CTRL-X to save and exit.
+
+Then you have to update the grub or the problem will stay and not go away despite your best efforts.
+
+`sudo update-grub`
+
+![sudo update-grub](grub_edit_3.png "update your grub")
 
 ### My Tuppence
 
