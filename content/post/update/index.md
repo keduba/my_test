@@ -164,7 +164,7 @@ Three days earlier on the 22nd of March I was almost half way through the course
 
 On average, for this course I worked for about 8 hours daily beginning from around 7:30 am and stopping at around 4:00 pm. Even with this, on 22nd I thought I'd still be on the course by next week. Now I have gained one full week to work on a project of my own.
 
-What made it possible to rev-up this time given to work was the use of the Pomodoro technique. I think that if I had used it from the beginning and consistently, I may have completed the course even a few days earlier.
+What made it possible for me to rev-up the time I gave to the work* was the use of the Pomodoro technique. I used it usually but this time I took it seriously and I think that if I had been more consistent with it I may have completed the course even earlier.
 
 - I realised that with the Pomodoro 5-minute breaks after 25 minutes of work, I was rarely tired even though I worked longer and maybe harder.
 
@@ -178,6 +178,9 @@ I subscribe to the idea of doing one whole project that goes end-to-end on Machi
 
 Like always, I'm looking forward to this.
 
+
 ##### Current reading for the weekend:
 
 Effective Python (2nd Edition) by Brett Slatkin
+
+* actually I was studying but you know I already saw it as working
