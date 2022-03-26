@@ -183,4 +183,4 @@ Like always, I'm looking forward to this.
 
 Effective Python (2nd Edition) by Brett Slatkin
 
-* actually I was studying but you know I already saw it as working
+*actually I was studying but you know already that I see it as working.
