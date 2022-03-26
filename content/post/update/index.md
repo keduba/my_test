@@ -162,7 +162,7 @@ Yesterday also I completed the Zero to Mastery Machine Learning and Data Science
 
 Three days earlier on the 22nd of March I was almost half way through the course at 182 out of 380. I still had over 9 hours of Python revisions and 8 hours of Deep Learning to go through. Considering that this time was prolonged by trying to follow with the coding at the same time as the tutor while dealing with the problems of runtime reconnection (_Google Colab_) or importing data (_Paperspace Gradient_) I appreciate the effort I put into getting this course done.
 
-On average, for this course I worked for about 8 hours daily beginning from around 7:30 am and stopping at around 4:00 pm. Even with this, on 22nd I thought I'd still be on the course by next week. Now I have gained one full week to work on a project of my own.
+On average, for this course I worked for about 8 hours daily starting at about 7:30 am and stopping at around 4:00 pm. Even with this, on 22nd I thought I'd still be on the course by next week. Now I have gained one full week to work on a project of my own.
 
 What made it possible for me to rev-up the time I gave to the work* was the use of the Pomodoro technique. I used it usually but this time I took it seriously and I think that if I had been more consistent with it I may have completed the course even earlier.
 
