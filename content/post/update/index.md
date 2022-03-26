@@ -1,7 +1,7 @@
 ---
 title: Update
 subtitle: "Python programming and Machine Learning. "
-date: 2022-02-24T08:41:37.511Z
+date: 2022-03-26T14:36:59.860Z
 summary: This is a post to keep up with my studying machine learning. I'm using
   it to keep track of how I have been working towards my goal of becoming an
   expert in machine learning by the end of February 2022.
