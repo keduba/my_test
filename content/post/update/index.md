@@ -2,9 +2,9 @@
 title: Update
 subtitle: "Python programming and Machine Learning. "
 date: 2022-02-24T08:41:37.511Z
-summary: "**This is a post to keep up with my studying machine learning. I'm
-  using it to keep track of how I have been working towards my goal of becoming
-  an expert in machine learning by the end of February 2022.**"
+summary: This is a post to keep up with my studying machine learning. I'm using
+  it to keep track of how I have been working towards my goal of becoming an
+  expert in machine learning by the end of February 2022.
 draft: false
 featured: true
 image:
@@ -168,7 +168,8 @@ What made it possible for me to rev-up the time I gave to the work* was the use 
 
 - I realised that with the Pomodoro 5-minute breaks after 25 minutes of work, I was rarely tired even though I worked longer and maybe harder.
 * 
-- I also kept my phone away in the bedroom while I worked downstairs in the study room. I only got back to the phone at around 5 pm daily. Previously I used to check my phone during my Pomodoro breaks. Now for my breaks I either walked, stretched my legs or even sometimes sketched the outline of an article or wrote one.
+- I also kept my phone away in the bedroom while I worked downstairs in the study room. I only got back to the phone at around 5 pm daily. Previously I used to check my phone during my Pomodoro breaks. 
+* Now for my breaks I either walked, stretched my legs or even sometimes sketched the outline of an article or wrote one.
 
 I don't know if I'll keep working this hard, but I know I'll keep my phone away while I work. That's a habit I definitely want to keep.
 
