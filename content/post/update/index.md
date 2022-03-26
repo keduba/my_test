@@ -12,7 +12,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-https://*This is a post to keep up with the state of my learning. I'm using it to keep track of how I have been learning and studying with my goal of becoming an expert in machine learning by the end of February 2022.*
+**This is a post to keep up with my studying machine learning. I'm using it to keep track of how I have been working towards my goal of becoming an expert in machine learning by the end of February 2022.**
 
 ## Outline
 - [November 2021](#november-2021)
@@ -138,18 +138,46 @@ Still on Scikit-Learn. I gotta give it to Daniel Bourke. He knows how to teach. 
 
 He has a way of running through new things and showing you how to look for it yourself without being stumped on the details, something I picked when I did the _Learning How to Learn_ course. I already use this technique when I help my friends with their programming assignments in R.
 
-___Need something?___
+**Need something?**
 
 Look it up. Copy the example. Modify it to your own.
 
-___Why is that this way and not another way?___
+**Why is that this way and not another way?**
 
 Read quickly through the documentation.
 
-___Getting sucked in?___
+**Getting sucked in?**
 
 Stop. Step back.
 
 Time is the measure. Some things will definitely take more time than others to figure out, so let's keep the time free for those kinds of tasks. When dealing with little things, just shoot from the hip. Go straight to the task. That way when you've dealt with the little things and got them out of the way, you'll find that you might have earned yourself some extra time that you can use to explore the more stubborn problems.
 
 When I got fazed out after about four, five hours of ML codes I turned to reading the book ___Cracking the Coding Interview___. Instantly my eyes were alert. There is no time to lose. So we keep going.
+
+#### March 26
+
+Yesterday was March 25, the Feast of the Annunciation (on which is also celebrated Mother's Day).
+
+Yesterday also I completed the Zero to Mastery Machine Learning and Data Science course. 
+
+Three days earlier on the 22nd of March I was almost half way through the course at 182 out of 380. I still had over 9 hours of Python revisions and 8 hours of Deep Learning to go through. Considering that this time was prolonged by trying to follow with the coding at the same time as the tutor while dealing with the problems of runtime reconnection (_Google Colab_) or importing data (_Paperspace Gradient_) I appreciate the effort I put into getting this course done.
+
+On average, for this course I worked for about 8 hours daily beginning from around 7:30 am and stopping at around 4:00 pm. Even at this, on 22nd I thought I'd still be on the course by next week. Now I have gained one full week to work on a project of my own.
+
+What made it possible to rev-up this time given to work was the use of the Pomodoro technique. I think that if I had used it from the beginning and consistently, I may have completed the course even a few days earlier.
+
+- I realised that with the Pomodoro 5-minute breaks after 25 minutes of work, I was rarely tired even though I worked longer and maybe harder.
+
+- I also kept my phone away in the bedroom while I worked downstairs in the study room. I only got back to the phone at around 5 pm daily. Previously I used to check my phone during my Pomodoro breaks. Now for my breaks I either walked, stretched my legs or even sometimes sketched the outline of an article or wrote one.
+
+I don't know if I'll keep working this hard, but I know I'll keep my phone away while I work. That's a habit I definitely want to keep.
+
+This post, **Update**, will reach its full term at the end of this month of March. I have one more week of updates to add on the project(s) I will do.
+
+I subscribe to the idea of doing one whole project that goes end-to-end on Machine Learning incorporating all the areas from data collection, visualising or preprocessing, to actual training, validation and evaluation, testing and making predictions, tuning and deployment, and saving the model to share. It is more cohesive than doing many micro projects that are only potential parts of a whole.
+
+Like always, I'm looking forward to this.
+
+##### Current reading for the weekend:
+
+Effective Python (2nd Edition) by Brett Slatkin
