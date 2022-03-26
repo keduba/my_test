@@ -52,7 +52,7 @@ So I continued to look. Then I stumbled on the next solution which involves the 
 
 I found this solution on StackOverflow, tucked away in one of the answers. It took a long time to find it, and that's one of the reasons I decided to write about it.
 
-First you'll open your grub file.
+First you'll need to open your grub file.
 
 ```
 sudo nano /etc/default/grub
@@ -60,7 +60,7 @@ sudo nano /etc/default/grub
 
 ![](grub_edit_1.png)
 
-Then on the line with: GRUB_CMDLINE_LINUX_DEFAULT="quiet splash",  *add*  `acpi_osi=!` and you are done.
+Then on the line with: GRUB_CMDLINE_LINUX_DEFAULT="quiet splash", **add** `acpi_osi=!` and you are done.
 
 ```
 GRUB_CMDLINE_LINUX_DEFAULT="quiet splash acpi_osi=!"
@@ -90,4 +90,4 @@ Then you have to update the grub or the problem will stay and not go away despit
 ACPI is short for Advanced Configuration and Power Interface. It is a tool that helps your Linux computer communicate with the BIOS using the right operating system identifiers (OSI) to deal with some of the issues that may arise when you switch a computer that shipped with Windows to Linux. Sometimes it also helps to deal with driver incompatibility in Windows even if you did not switch operating systems. That's a very short explanation.
 
 The ACPI kernel parameter helps with things like the touchpad, touchscreen and and others that came with the OS vendor.
-For more details, [Kernel](https://www.kernel.org/doc/Documentation/admin-guide/kernel-parameters.txt) will help.
+For more details, [the Kernel website](https://www.kernel.org/doc/Documentation/admin-guide/kernel-parameters.txt) will help.
