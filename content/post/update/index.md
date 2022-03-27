@@ -29,7 +29,9 @@ image:
 - [March 2022](#march-2022)
   - [March 8](#march-8)
   - [March 11](#march-11)
-  - [March 15](#march-15)
+  - [March 15](#march-15)  
+  - [March 26](#march-26)
+
 ### November 2021
 
 I resumed studying after the 8th of November with Andrew Ng's Machine Learning course on Coursera. At the same time, I was trying to put in some webscraping skills from Al Sweigart's book Automate the Boring Stuff with Python but I didn't have much success. Some things worked and others didn't. The whole thing looked simple and hard at the same time. I decided I'd have to watch some videos to learn how it could be done well. So I kept it aside for the meantime. 
