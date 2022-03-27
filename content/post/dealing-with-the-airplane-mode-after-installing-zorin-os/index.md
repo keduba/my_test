@@ -43,7 +43,7 @@ Some commands taken from the man page for rfkill are below:
        rfkill block bluetooth uwb wimax wwan gps fm nfc
 ```
 
-I ran all the variations of this command and none of them worked. For the WiFi the identifier is  \`wlan\`. So I ran the following
+I ran all the variations of this command and none of them worked. For the WiFi the identifier is  `wlan`. So I ran the following
 
 `rfkill unblock wlan`
 
