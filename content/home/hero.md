@@ -5,8 +5,9 @@ widget: hero
 widget_id: hero widget
 headless: true
 weight: 10
-title: Kedman's Pages
-subtitle: ""
+title: kedman
+subtitle: Writing because I should.   Interests = \[Mind, Programming in
+  Python]   Goal >= Machine Learning
 active: true
 design:
   background:
@@ -14,11 +15,6 @@ design:
     gradient_start: "#004ba0"
     text_color_light: true
     image: bougoureau1.jpg
-    image_darken: 1
+    image_darken: 0.9
 hero_media: null
 ---
-Writing because I should. 
-
-Interests = \[Mind, Programming in Python] 
-
-Goal >= Machine Learning
