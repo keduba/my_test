@@ -1,10 +1,10 @@
 ---
 title: Update
 subtitle: "Python programming and Machine Learning. "
-date: 2022-02-24T08:41:37.511Z
-summary: "*This is a post to keep up with the state of my learning. I'm using it
-  to keep track of how I have been learning and studying with my goal of
-  becoming an expert in machine learning by the end of February.*"
+date: 2022-03-26T14:36:59.860Z
+summary: This is a post to keep up with my studying machine learning. I'm using
+  it to keep track of how I have been working towards my goal of becoming an
+  expert in machine learning by the end of February 2022.
 draft: false
 featured: true
 image:
@@ -12,7 +12,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-https://*This is a post to keep up with the state of my learning. I'm using it to keep track of how I have been learning and studying with my goal of becoming an expert in machine learning by the end of February 2022.*
+
 
 ## Outline
 - [November 2021](#november-2021)
@@ -29,7 +29,9 @@ https://*This is a post to keep up with the state of my learning. I'm using it t
 - [March 2022](#march-2022)
   - [March 8](#march-8)
   - [March 11](#march-11)
-  - [March 15](#march-15)
+  - [March 15](#march-15)  
+  - [March 26](#march-26)
+
 ### November 2021
 
 I resumed studying after the 8th of November with Andrew Ng's Machine Learning course on Coursera. At the same time, I was trying to put in some webscraping skills from Al Sweigart's book Automate the Boring Stuff with Python but I didn't have much success. Some things worked and others didn't. The whole thing looked simple and hard at the same time. I decided I'd have to watch some videos to learn how it could be done well. So I kept it aside for the meantime. 
@@ -138,18 +140,49 @@ Still on Scikit-Learn. I gotta give it to Daniel Bourke. He knows how to teach. 
 
 He has a way of running through new things and showing you how to look for it yourself without being stumped on the details, something I picked when I did the _Learning How to Learn_ course. I already use this technique when I help my friends with their programming assignments in R.
 
-___Need something?___
+**Need something?**
 
 Look it up. Copy the example. Modify it to your own.
 
-___Why is that this way and not another way?___
+**Why is that this way and not another way?**
 
 Read quickly through the documentation.
 
-___Getting sucked in?___
+**Getting sucked in?**
 
 Stop. Step back.
 
 Time is the measure. Some things will definitely take more time than others to figure out, so let's keep the time free for those kinds of tasks. When dealing with little things, just shoot from the hip. Go straight to the task. That way when you've dealt with the little things and got them out of the way, you'll find that you might have earned yourself some extra time that you can use to explore the more stubborn problems.
 
 When I got fazed out after about four, five hours of ML codes I turned to reading the book ___Cracking the Coding Interview___. Instantly my eyes were alert. There is no time to lose. So we keep going.
+
+#### March 26
+
+Yesterday was March 25, the Feast of the Annunciation (on which is also celebrated Mother's Day).
+
+Yesterday also I completed the Zero to Mastery Machine Learning and Data Science course. 
+
+Three days earlier on the 22nd of March I was almost half way through the course at 182 out of 380. I still had over 9 hours of Python revisions and 8 hours of Deep Learning to go through. Considering that this time was prolonged by trying to follow with the coding at the same time as the tutor while dealing with the problems of runtime reconnection (_Google Colab_) or importing data (_Paperspace Gradient_) I appreciate the effort I put into getting this course done.
+
+On average, for this course I worked for about 8 hours daily starting at about 7:30 am and stopping at around 4:00 pm. Even with this, on 22nd I thought I'd still be on the course by next week. Now I have gained one full week to work on a project of my own.
+
+What made it possible for me to rev-up the time I gave to the work* was the use of the Pomodoro technique. I used it usually but this time I took it seriously and I think that if I had been more consistent with it I may have completed the course even earlier.
+
+- I realised that with the Pomodoro 5-minute breaks after 25 minutes of work, I was rarely tired even though I worked longer and maybe harder.
+* I also kept my phone away in the bedroom while I worked downstairs in the study room. I only got back to the phone at around 5 pm daily. Previously I used to check my phone during my Pomodoro breaks.
+- Now for my breaks I either walked, stretched my legs or even sometimes sketched the outline of an article or wrote one.
+
+I don't know if I'll keep working this hard, but I know I'll keep my phone away while I work. That's a habit I definitely want to keep.
+
+This post, **Update**, will reach its full term at the end of this month of March. I have one more week of updates to add on the project(s) I will do.
+
+I subscribe to the idea of doing one whole project that goes end-to-end on Machine Learning incorporating all the areas from data collection, visualising or preprocessing, to actual training, validation and evaluation, testing and making predictions, tuning and deployment, and saving the model to share. It is more cohesive than doing many micro projects that are only potential parts of a whole.
+
+Like always, I'm looking forward to this.
+
+
+##### Current reading for the weekend:
+
+Effective Python (2nd Edition) by Brett Slatkin
+
+*actually I was studying but you know already that I see it as working.
