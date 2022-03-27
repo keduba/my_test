@@ -4,10 +4,15 @@ subtitle: Get back your wifi and bluetooth functions
 date: 2022-03-16T07:10:27.714Z
 draft: false
 featured: false
+tags:
+  - WifiAirplanemode
+categories:
+  - Tutorials
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: The Sample Caption
 ---
 I recently helped a friend migrate to Zorin OS. I'm not using it myself but I'd seen so many reviews I was tempted to try it out so when I made a flash disk with several Linux distros Zorin was one of them.
 
@@ -36,7 +41,7 @@ Some commands taken from the man page for rfkill are below:
        rfkill block bluetooth uwb wimax wwan gps fm nfc
 ```
 
-I ran all the variations of this command and none of them worked. For the WiFi the identifier is the wlan. So I ran the following
+I ran all the variations of this command and none of them worked. For the WiFi the identifier is  \`wlan\`. So I ran the following
 
 `rfkill unblock wlan`
 
