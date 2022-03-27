@@ -21,7 +21,7 @@ image:
 
 I turned 35 on February 26, 2022.
 
-There was a time some years ago when I used to check for those who were also born on this day. I feel a personal affinity to all those born in February. I call us Los febreros. One of those with whom I share this special day is Émile Coué, the French pharmacist-turned-hypnotist of Nancy, North-west France. Born on 26 February 1857, he was the father of modern autosuggestion.
+There was a time some years ago when I used to check for those who were also born on this day. I feel a personal affinity to all those born in February. I call us _los febreros_. One of those with whom I share this special day is Émile Coué, the French pharmacist-turned-hypnotist of Nancy, North-west France. Born on 26 February 1857, he was the father of modern autosuggestion.
 
 Since July 2018 when I first discovered his work till November 2020 when I had to really put it into practice again, and in 2021 when I was positively living on autosuggestion, till date when from time to time I practice different forms of it to get a grip on things, I feel a gratitude to him for his discoveries in this field. It is nothing like the new age nonsense that we see, and it is an honest relief.
 
@@ -43,18 +43,18 @@ In the past year, as I shed off lots of fears, anxieties and worries and grew in
 
 ## Learning
 
-In the first year of my Master's studies, I struggled terribly with the fixed attitude* of learning. I thought that the way I could learn was already fixed in my mind and could not be changed. I also thought erroneously that I had to already know stuff. This *absolute* approach dealt with me mercilessly. At the end of the first year around August 2020, reading *The Art of Learning by Josh Waitzkin*, I realised that there is a better way, the incremental approach.
+In the first year of my Master's studies, I struggled terribly with the fixed attitude of learning. I thought that the way I could learn was already fixed in my mind and could not be changed. I also thought erroneously that I had to already know stuff. This *absolute* approach dealt with me mercilessly. At the end of the first year around August 2020, reading ***The Art of Learning by Josh Waitzkin***, I realised that there is a better way, the incremental approach.
 
 I learnt that looking at learning as an ongoing process is way better and more practical than the fixed mindset. Sadly, old habits die hard, and it took me more than a year to internalise this. Now I approach my studies in Machine Learning with this perspective and it is going much better with me because I am no longer disappointed, discouraged or distracted. I know that I don't know but I also know that I can learn and that I can learn fast.
 
-When I took the course *Learning How to Learn* by Dr. Barbara Oakley and Dr. Terrence Sejnowski on [Coursera](https://www.coursera.org/learn/learning-how-to-learn) in August 2021, I was reminded of the same idea and this time I paid more attention as the course also came with guides to deal with overwhelm and other things that distract one from learning properly.
+When I took the course [**Learning How to Learn**](https://www.coursera.org/learn/learning-how-to-learn) by Dr. Barbara Oakley and Dr. Terrence Sejnowski in August 2021, I was reminded of the same idea and this time I paid more attention as the course also came with guides to deal with overwhelm and other things that distract one from learning properly.
 
 Now when I approach a new subject, I start with getting the hang of the concepts and the idea, and then if I need them, I go for the details.
 
 
 ## Virtues
 
-To be truly good requires having what are called Virtues. They are essentially habits that are acquired with practice of doing what is good. In this case, `good != nice`. Good can sometimes seem un-nice but it can never be bad no matter how you look at it. I would like to have virtues because, having observed the way we live, my conclusion is that life is hard enough already, and whether we oppose evil or not, it will still be hard. So one might as well get up and fight.
+To be truly good requires having what are called Virtues. They are essentially habits that are acquired with practice of doing what is good. In this case, good is not the same as nice. Good can sometimes seem un-nice but it can never be bad no matter how you look at it. I would like to have virtues because, having observed the way we live, my conclusion is that life is hard enough already, and whether we oppose evil or not, it will still be hard. So one might as well get up and fight.
 
 Acquiring virtues implies a constant fight against oneself, getting up in the morning, starting work at the right time, thinking well of people we don't want to think well of, paying our debts though we could get away with not paying (at least for the moment), accepting when we are wrong and being sincerely sorry for it, being punctual to our duties, resisting the temptations of illicit pleasures and so on. Most of the time, the desire to have these Virtues is a function of one's outlook on life.
 
