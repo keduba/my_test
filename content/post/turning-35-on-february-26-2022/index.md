@@ -1,6 +1,8 @@
 ---
 title: Turning 35 on February 26, 2022
 date: 2022-02-28T09:59:15.663Z
+summary: How did the last 365 days go for me? I'm taking stock of how I changed
+  since my last birthday.
 draft: false
 featured: false
 image:
