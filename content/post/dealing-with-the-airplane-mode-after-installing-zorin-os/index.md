@@ -44,7 +44,7 @@ I ran all the variations of this command and none of them worked. For the WiFi t
 
 ![rfkill list ( to list the radio devices after unblocking)](rfkill_list.png "rfkill list")
 
-Normally it should work. On my computer, this is the output showing what should be the ideal result but this is not what it showed on his. `wlan` remained `Hard blocked: yes` rather than `Hard blocked: no` as in the image above.
+Normally it should work. On my computer, this is the output showing what should be the ideal result but this is not what it showed on his. `Wireless Lan` remained `Hard blocked: yes` rather than `Hard blocked: no` as in the image above.
 
 So I continued to look. Then I stumbled on the next solution which involves the ACPI kernel parameter. I'll present the solution first before trying to explain what the `acpi` stands for or does.
 
