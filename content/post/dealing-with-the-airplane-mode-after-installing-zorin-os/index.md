@@ -1,5 +1,5 @@
 ---
-title: Dealing with the Airplane Mode after installing Zorin OS.
+title: Dealing with Airplane Mode after installing Zorin OS.
 subtitle: Get back your wifi and bluetooth functions
 date: 2022-03-16T07:10:27.714Z
 draft: false
@@ -20,9 +20,11 @@ The GUI looks good but it seems that by default, some extra tinkering would be n
 
 The laptop had issues with the touchscreen in Firefox, issues with setting up the printer drivers and issues with the WiFi after sleep or hibernation which is the subject of this tutorial.
 
-For some dreary reason, every time the screen went into inactive state and locked, so did the WiFi. It went into airplane mode immediately and nothing short of a restart brought it back on.
+For some dreary reason, every time the screen went into inactive state and locked, so did the WiFi. It went into airplane mode immediately and nothing short of a restart brought it back on. 
 
-It took hours to find a solution. I tried all the popular solutions that were put on StackOverflow, on Zorin's help desk and community page, AskUbuntu and some more that I no longer recall. I'm putting the most popular suggestions here because it might work off the bat for some people, then the one that worked for me, if the problem persists.
+It took hours to find a solution. I tried all the popular solutions that were put on StackOverflow, on Zorin's help desk and community page, AskUbuntu and some more that I no longer recall. I realised later that this problem isn't Zorin specific but is dependent on hardwares moving from Windows, for example HP laptops.
+
+I'm putting the most popular suggestions here because it might work off the bat for some people, then the one that worked for me, if the problem persists.
 
 ### The usual StackOverflow solutions
 
@@ -71,7 +73,7 @@ Then on the line with: GRUB_CMDLINE_LINUX_DEFAULT="quiet splash", **add** `acpi_
 GRUB_CMDLINE_LINUX_DEFAULT="quiet splash acpi_osi=!"
 ```
 
-![](grub_edit_4.png)
+![edit the grub file](grub_edit_4.png "add acpi_osi parameter")
 
 One can also enter `acpi_osi="Linux"` which works well on Linux, or
 `acpi_osi='Windows 2019'` to mimic Windows 10, version 1903.
