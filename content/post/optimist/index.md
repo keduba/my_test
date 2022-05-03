@@ -11,9 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The Eternal Optimist
-
-I read a poem recently. It was titled Richard Cory, written by Edwin Arlington Robinson. It seemed to me like something I'd read a long time ago but on a chance mention by a friend I read it again. Going through it reminded me of a story by one of my favourite writers, G.K. Chesterton. Contained in the collection of short stories called __The Innocence of Father Brown__, the story titled "Three Tools of Death" was about a man, an incurable optimist, that committed suicide.
+I read a poem recently. It was titled Richard Cory, written by Edwin Arlington Robinson. It seemed to me like something I'd read a long time ago but on a chance mention by a friend I read it again. Going through it reminded me of a story by one of my favourite writers, G.K. Chesterton. Contained in the collection of short stories called **The Innocence of Father Brown**, the story titled "Three Tools of Death" was about a man, an incurable optimist, that committed suicide.
 
 Some weeks ago, two of my classmates came back from a walk and recounted to me how they saw a girl held back from breaking more than just her bones on a pavement three floors below her window. Some person or persons struggled to pull her in from the narrow ledge up above and stayed with her in the house until the police came and took her. Stories like this are sad, and part of what makes them sad is that sometimes when people take their lives they write notes asking their friends and family to understand but what if they shared their troubles with others while there was still something that could have been done to help? Before jumping or shooting or overdosing, the general assumption is that no one will understand, yet a note is written asking for understanding. What if that understanding was actively sought while alive, while it could have been useful?
 
@@ -23,13 +21,11 @@ One of the problems with the eternal optimist is the insistence on showing the w
 
 ![the optimist](optimist-hp.jpg "Image credits: The HuffingtonPost")
 
-
 Generally the macho attitude gives the answer to the question, "How are you doing?" as "I am fine" even when they aren't. Yet it is completely okay to not be okay and to also be able to say, "I'm not feeling so good" or "I feel a bit uneasy." That is being alive. We should be wary of a life that is either endlessly bright or endlessly dark. A life without disappointments is neither interesting nor desirable. We need disappointments to shake us up from lethargy or complacence. We need failures to teach us humility. We need heartbreaks sometimes to show us not only our weaknesses but also our strengths. To deny these seeming 'evils' is to shut the door on the opportunities that they will bring us for sincerity in our friendships, warmth in our relationships, personal growth, and the ability to actually see and hear others.
 
 The perpetual optimist sees what he wants to see, or rather what he has pre-defined himself to see. In the same way too he hears what he wants to hear no matter what or how it is said. Like this, there is the tendency to miss out on non-verbal cues and then clearly misconstrue the verbal ones. Talking with someone like this is like talking through a filter. What gets through is what he wants not what you want.
 
 ![the creed of optimists](optimist-creed.jpg "Image credits: The Paris Review")
-
 
 There are a number of things that they might be trying to escape from. It could be that this is how they have learnt to deal with disappointments, sadness, depression, despair or failure whether real or imagined. Using this heavy sense of optimism to cloak it seems like an obvious way to make it disappear but it's only a Houdini's elephant. You can't see it but it's still in the room.
 
