@@ -17,7 +17,6 @@ image:
 ### Outline
 
 * Backing up the files
-* Codes to try to resurrect the PC
 * If all fails, try a Linux USB
 * Run a try (not install) of the Linux.
 * Mount the disk  and look at your files and directories.
@@ -39,13 +38,6 @@ However two simple ways are to:
 * Use an external hard disk or a USB stick.
 * Back up to an online storage system or server.
   This will help you when the evil day arrives though I hope it never does.
-
-### Codes to resurrect the PC
-
-Suppose the dreaded event occurs, there's no need to throw up your hands in despair. There are a couple of things you can try to see if you can resolve the problem yourself. Here are a number of them:
-
-*
-*
 
 ### Try a Linux USB
 
