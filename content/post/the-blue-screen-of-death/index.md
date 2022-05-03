@@ -56,7 +56,7 @@ A. You are surrounded by Windows computers:
 
 B. You have a Linux:
 
-* There are native disk creators. Search for this term on you Linux PC and it should briing up the application for you. If you don't find it, you can try [Ventoy](https://www.ventoy.net). The good thing about Ventoy is that it allows you to write multiple OS `.iso`'s without blinking. Then you can pick and choose. After the initial setup, having an OS is as simple as copying the .iso file to the flash drive.
+* There are native disk creators. Search for this term on your Linux PC and it should bring up the application for you. If you don't find it, you can try [Ventoy](https://www.ventoy.net). The good thing about Ventoy is that it allows you to write multiple OS `.iso`'s without blinking. Then you can pick and choose. After the initial setup, having an OS is as simple as copying the .iso file to the flash drive.
 * After it's downloaded, run `rufus`, selecting the `.iso`, choosing **GPT** for the partition type. Most of the default settings work just fine. Hit `START`, accept the warning and come back around 3 - 6 minutes.
 * I have to say that this process is going to be run on a different computer whether a spare one, a friend's or at the library because we are assuming that your computer is currently comatose and on life support.
 
