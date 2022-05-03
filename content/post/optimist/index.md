@@ -1,7 +1,7 @@
 ---
 title: The Eternal Optimist
 subtitle: A little optimism goes a long way
-date:
+date: 2022-05-03T11:15:10.469Z
 summary: The health benefits of optimism are obvious when there is no overdose.
 draft: false
 featured: false
@@ -11,7 +11,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
 The Eternal Optimist
 
 I read a poem recently. It was titled Richard Cory, written by Edwin Arlington Robinson. It seemed to me like something I'd read a long time ago but on a chance mention by a friend I read it again. Going through it reminded me of a story by one of my favourite writers, G.K. Chesterton. Contained in the collection of short stories called __The Innocence of Father Brown__, the story titled "Three Tools of Death" was about a man, an incurable optimist, that committed suicide.
