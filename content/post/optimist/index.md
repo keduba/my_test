@@ -3,7 +3,7 @@ title: The Eternal Optimist
 subtitle: A little optimism goes a long way
 date:
 summary: The health benefits of optimism are obvious when there is no overdose.
-draft: true
+draft: false
 featured: false
 categories: Mind
 image:
