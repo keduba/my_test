@@ -24,13 +24,8 @@ We all know someone whose desktop is so filled with files that it's impossible t
 This begins from your directory or folder structure. Both directory and folder are refering to the same idea of grouping similar items in one place. Having a consistent folder structure is key to working efficiently. You should be able to find your files or folders easily without thinking about it. Efficient file system structure includes some of the following elements:
 
 * Having a separate folder each for work and personal documents.
-
-
-* Arranging directories according to functions. For example: Work, Personal, Blog posts, Textbooks, Articles and Invoices. 
-
-
+* Arranging directories according to functions. For example: Work, Personal, Blog posts, Textbooks, Articles and Invoices.
 * An extension of this can be dividing the Downloads directory into PDF, Images, Zips, Tars, Temps subdirectories. This will enable you find those kinds of files quickly without having to scroll through a lot of unrelated folders.
-
 * Having a naming system also helps. For example, if you download Machine Learning materials from the internet, prefacing them with ML will help you sort them easily. So ML for Machine Learning, DS for Data Science, PY for Python, R for R (of course) etc. 
 
   Using underscores after this prefix will further simplify things for you. _PY_LearnPython.pdf_ is a concrete example of this rule. If you were to automate the moving of your files to relevant folders, it would be cheesecake to move this to a folder for only Python books.
