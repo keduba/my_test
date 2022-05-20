@@ -28,7 +28,7 @@ This begins from your directory or folder structure. Both directory and folder a
 * An extension of this can be dividing the Downloads directory into PDF, Images, Zips, Tars, Temps subdirectories. This will enable you find those kinds of files quickly without having to scroll through a lot of unrelated folders.
 * Having a naming system also helps. For example, if you download Machine Learning materials from the internet, prefacing them with ML will help you sort them easily. So ML for Machine Learning, DS for Data Science, PY for Python, R for R (of course) etc. 
 
-  Using underscores after this prefix will further simplify things for you. _PY_LearnPython.pdf_ is a concrete example of this rule. If you were to automate the moving of your files to relevant folders, it would be cheesecake to move this to a folder for only Python books.
+  Using underscores after this prefix will further simplify things for you. A concrete example would be to name a file like so: _PY_LearnPython.pdf_. If you were to automate the moving of your files to relevant folders, it would be cheesecake to move this to a folder for only Python books.
 
 * Another way to name personal files can be to append the year, month and day (YYMMDD) before the title of the document. This can help with an informal version control. The first draft of this post is called _220519_workspace_v1.md_. 
 
