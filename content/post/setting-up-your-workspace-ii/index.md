@@ -27,7 +27,7 @@ Picture this, the priest always has his stole, a bottle of holy water and chrism
 
 So too should the software engineer, software developer or data scientist always be fitted with the right tools for work. The major tools are the project templates and the git or version control system. Project templates are default files and directory structures that are put in place for all the different kinds of projects you might potentially work on. They could be R, Python, Ruby, Django, Go, Flask, C++, you name it.
 
-The template has the various files that every project needs in order to work well. Pre-populating a project directory with the template makes it possible to automate the file structure required in setting up a development project in whatever language you work with, or on whatever kind of task you work on. That means that you can design your project by either programming language or task. With this you can have either a Data science template, Python template, or as many templates as you need for the different kinds of projects you are working on.
+The template which is also called the skeleton has the various files that every project needs in order to work well. Pre-populating a project directory with the template makes it possible to automate the file structure required in setting up a development project in whatever language you work with, or on whatever kind of task you work on. That means that you can design your project by either programming language or task. With this you can have either a Data science template, Python template, or as many templates as you need for the different kinds of projects you are working on.
 
 **Advantages:**
 
