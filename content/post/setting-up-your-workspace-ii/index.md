@@ -2,6 +2,9 @@
 title: Setting Up Your Workspace II
 subtitle: Coding Environments
 date: 2022-05-27T09:07:56.927Z
+summary: We continue the second part of Setting up the workspace with a few tips
+  and links to getting templates and structures for various development
+  projects.
 draft: false
 featured: false
 image:
