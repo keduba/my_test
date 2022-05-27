@@ -91,3 +91,5 @@ With these tools all the tasks in developing projects are automated thereby savi
 │
 └── tox.ini 
 ```
+
+With these tips I hope to have helped you on the path to having a complete toolbox or at least provided a guide towards setting up a successful project template.
