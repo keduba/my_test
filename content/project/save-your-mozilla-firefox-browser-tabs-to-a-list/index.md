@@ -4,7 +4,7 @@ date: 2022-06-23T13:31:31.145Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 20220623_browser_featured.png
   focal_point: Smart
   preview_only: false
 ---
