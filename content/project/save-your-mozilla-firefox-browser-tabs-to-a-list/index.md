@@ -1,6 +1,9 @@
 ---
 title: Save your Mozilla Firefox browser tabs to a list
+subtitle: ""
 date: 2022-06-23T13:31:31.145Z
+summary: Quick fix to the problem of saving your browser tabs without having to
+  keep many years of history ;-).
 draft: false
 featured: false
 image:
