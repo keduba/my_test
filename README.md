@@ -1,2 +1,2 @@
-# my_test
-the repo for testing git on R
+# Kedman Website
+read the posts at https://kedman.eurodegreesng.com
